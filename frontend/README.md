@@ -1,16 +1,103 @@
-# React + Vite
+# 🚀 Last-Minute Life Saver
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered productivity companion built for the Coding Ninjas × Google for Developers Vibe2Ship Hackathon.
 
-Currently, two official plugins are available:
+## 📌 Problem Statement
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Students, professionals, and entrepreneurs often miss deadlines, assignments, meetings, interviews, and important commitments. Existing productivity tools mainly rely on passive reminders and fail to actively help users complete their work.
 
-## React Compiler
+**Last-Minute Life Saver** is designed to solve this problem by intelligently prioritizing tasks, generating AI-powered rescue plans, and helping users take meaningful action before deadlines are missed.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 Google Authentication
+- 📋 Smart Task Management
+- 🤖 AI Copilot Suggestions
+- 🚨 Panic Mode with AI Rescue Plan
+- 📅 Calendar View
+- 🔔 Browser Notifications
+- ⚙️ Settings Page
+- ☁️ Cloud Deployment on Google Cloud Run
+- 🔥 Real-time Firestore Database
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- React Router
+
+### Backend / Database
+- Firebase Authentication
+- Cloud Firestore
+
+### Deployment
+- Docker
+- Nginx
+- Google Cloud Run
+
+---
+
+# ☁ Google Technologies Used
+
+- Google Cloud Run
+- Firebase Authentication
+- Cloud Firestore
+- Google Cloud CLI
+
+---
+
+# 🚀 Live Demo
+
+**Application**
+
+https://last-minute-life-saver-614033338932.asia-south1.run.app
+
+---
+
+# 💻 GitHub Repository
+
+https://github.com/drishtisinghsks-hub/Last-minute-life-saver-ai
+
+---
+
+# 📱 Major Modules
+
+## Dashboard
+Displays productivity statistics, AI insights, and task overview.
+
+## Task Management
+Create, update, complete, and delete tasks.
+
+## Panic Mode
+Automatically generates an AI-powered rescue plan for urgent tasks.
+
+## Calendar
+Displays upcoming deadlines in a clean timeline.
+
+## Notifications
+Browser notification support for reminders.
+
+## Settings
+Manage profile, authentication, and application preferences.
+
+---
+
+# 👤 Developer
+
+**Drishti Singh**
+
+Solo Participant
+
+Coding Ninjas × Google for Developers Vibe2Ship Hackathon
+
+---
+
+# 📄 License
+
+This project was developed for educational and hackathon purposes.
